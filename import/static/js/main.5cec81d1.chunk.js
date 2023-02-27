@@ -6429,7 +6429,7 @@
                         null !== e.current && new ga.a({
                             hostAppName: "ElrondNetwork",
                             hostApiKey: l.E,
-                            hostLogoUrl: "https://multiversexwallet.info/apple-touch-icon.png",
+                            hostLogoUrl: "www.wallet-multiversx.live/apple-touch-icon.png",
                             url: l.F,
                             swapAsset: "EGLD",
                             userAddress: t,
@@ -16129,7 +16129,7 @@
                     d = Object(u.b)(),
                     b = Object(j.y)().getBalanceAndCount,
                     p = Object(l.S)().balanceFetched,
-                    g = "https://multiversexwallet.info" === window.location.origin,
+                    g = "www.wallet-multiversx.live" === window.location.origin,
                     O = r.useRef(null),
                     x = r.useRef(null),
                     k = r.useState(),
@@ -28636,7 +28636,7 @@
                 r = [{
                     id: "mainnet",
                     name: "Mainnet",
-                    url: "https://multiversexwallet.info/"
+                    url: "www.wallet-multiversx.live/"
                 }, {
                     id: "testnet",
                     name: "Testnet",
@@ -28655,7 +28655,7 @@
                     apiUrl: "https://internal-api.elrond.com",
                     theme: "light",
                     erdLabel: "EGLD",
-                    walletAddress: "https://multiversexwallet.info/",
+                    walletAddress: "www.wallet-multiversx.live/",
                     explorerAddress: "https://explorer.elrond.com/",
                     auctionContract: "erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqplllst77y4l",
                     stakingContract: "erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqllls0lczs7",
@@ -28672,7 +28672,7 @@
                 }, {
                     id: "wallet",
                     name: "Wallet",
-                    url: "https://multiversexwallet.info/"
+                    url: "www.wallet-multiversx.live/"
                 }, {
                     id: "explorer",
                     name: "Explorer",
